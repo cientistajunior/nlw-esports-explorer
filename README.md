@@ -1,6 +1,6 @@
 # NLW eSports 
 
-![preview]()
+![preview](./github/img.png)
 
 >Trilha Explorer 
 
@@ -16,5 +16,5 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ### 💛 Contato
 
-juniorwilson90@hotmail.com
+juniorwilson90@hotmail.com </br>
 https://www.linkedin.com/in/cientistajr/
